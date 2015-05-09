@@ -1,0 +1,5 @@
+C:\Programming\HoldEm\HoldEm\HoldEm\bin\Debug\HoldEm.dll
+C:\Programming\HoldEm\HoldEm\HoldEm\bin\Debug\HoldEm.pdb
+C:\Programming\HoldEm\HoldEm\HoldEm\obj\Debug\HoldEm.dll
+C:\Programming\HoldEm\HoldEm\HoldEm\obj\Debug\HoldEm.pdb
+C:\Programming\HoldEm\HoldEm\HoldEm\obj\Debug\HoldEm.csprojResolveAssemblyReference.cache

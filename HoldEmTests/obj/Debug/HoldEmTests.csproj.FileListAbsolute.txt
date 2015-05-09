@@ -1,0 +1,9 @@
+C:\Programming\HoldEm\HoldEm\HoldEmTests\bin\Debug\HoldEmTests.dll
+C:\Programming\HoldEm\HoldEm\HoldEmTests\bin\Debug\HoldEmTests.pdb
+C:\Programming\HoldEm\HoldEm\HoldEmTests\bin\Debug\HoldEm.dll
+C:\Programming\HoldEm\HoldEm\HoldEmTests\bin\Debug\nunit.framework.dll
+C:\Programming\HoldEm\HoldEm\HoldEmTests\bin\Debug\HoldEm.pdb
+C:\Programming\HoldEm\HoldEm\HoldEmTests\bin\Debug\nunit.framework.xml
+C:\Programming\HoldEm\HoldEm\HoldEmTests\obj\Debug\HoldEmTests.csprojResolveAssemblyReference.cache
+C:\Programming\HoldEm\HoldEm\HoldEmTests\obj\Debug\HoldEmTests.dll
+C:\Programming\HoldEm\HoldEm\HoldEmTests\obj\Debug\HoldEmTests.pdb
