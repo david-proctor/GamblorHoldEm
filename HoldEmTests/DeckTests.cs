@@ -41,7 +41,7 @@ namespace HoldEmTests
         }
 
         [Test]
-        [ExpectedException("EmptyDeckException")]
+        [ExpectedException(typeof(EmptyDeckException))]
         public void Draw_ThrowsOnEmptyDeck()
         {
             for(var i = 0; i < 53; ++i)

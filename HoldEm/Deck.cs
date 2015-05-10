@@ -21,7 +21,7 @@ namespace HoldEm
 
         public Card Draw()
         {
-            if(cards.Count == 0)
+            if(cards.Count < 1)
             {
                 throw new EmptyDeckException("There are no cards left in this deck");
             }
